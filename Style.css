@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.profile {
+    padding: 20px;
+}
+
+
+.footer {
+    padding: 20px;
+}
+
+
+.nav1{
+    background-color: lightblue;
+    position: fixed;
+    width: 100%; 
+}
+.nav2{
+    background-color: lightblue;
+    list-style-type: none;
+}
+
+.nav2 > ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+
+.box{
+    border: 1px;
+    padding: 20px;
+}
+
